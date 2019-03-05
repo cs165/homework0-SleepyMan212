@@ -1,8 +1,15 @@
 body {
   font-family: monospace;
   background-color: wheat;
+  margin: 0;
+  padding: 0;
 }
 img {
   max-width: 400px;
   max-height: 400px;
+}
+.container{
+  width: 500px;
+  margin: 0 auto;
+
 }
